@@ -618,7 +618,7 @@ button[type="submit"]:hover{
 footer{
     background: #011f4b;
     height: auto;
-    width: 100vw;
+    width: 100%;
     padding-top: 40px;
     color: #fff;
 }
